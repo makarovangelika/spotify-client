@@ -1,5 +1,5 @@
 let token;
-const clientId = '1db0528b60d84cf7ae784261fc498ab0';
+const clientId = 'YOUR CLIENT ID';
 const redirectUri = window.location.href;
 let Spotify = {
     getAccessToken() {
