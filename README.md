@@ -1,5 +1,6 @@
 # Jammming
 This React web application uses the Spotify API to allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.\
+For using this app you must have the Spotify account. Due to suspense of the Spotify's activity in Russia the users from Russia have to use this app with VPN.\
 This project was built under guidance of Codecademy to practice working with **React**.
 ## Usage
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
@@ -14,5 +15,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-For using this app you must have the Spotify account. Due to suspense of the Spotify's activity in Russia the users from Russia have to use this app with VPN.
